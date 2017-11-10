@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/random"
+        android:title="Random story"/>
+    <item
+        android:id="@+id/simple"
+        android:title="Madlib0: Simple"/>
+
+    <item
+        android:id="@+id/tarzan"
+        android:title="Madlib1: Tarzan"/>
+
+    <item
+        android:id="@+id/university"
+        android:title="Madlib2: University"/>
+
+    <item
+        android:id="@+id/clothes"
+        android:title="Madlib3: Clothes"/>
+    <item
+        android:id="@+id/dance"
+        android:title="Madlib5: Dance"/>
+</menu>
+    <!--
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/random"
+            android:title="Random story"/>
+        <item android:title="Pick a story">
+            <menu>
+                <item
+                    android:id="@+id/simple"
+                    android:title="Madlib0: Simple"/>
+
+                <item
+                    android:id="@+id/tarzan"
+                    android:title="Madlib1: Tarzan"/>
+
+                <item
+                    android:id="@+id/university"
+                    android:title="Madlib2: University"/>
+
+                <item
+                    android:id="@+id/clothes"
+                    android:title="Madlib3: Clothes"/>
+                <item
+                    android:id="@+id/dance"
+                    android:title="Madlib5: Dance"/>
+            </menu>
+        </item>
+    </menu>
+    -->
